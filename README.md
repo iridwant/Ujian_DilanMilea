@@ -1,3 +1,11 @@
+# Important Notice untuk Mas Lintang Wisesa :relaxed:
+
+Dikarenakan pada saat ujian terdapat permasalahan saat akses API untuk Kode Provinsi dan Kode Pos, dalam repository ini saya sertakan file json untuk masing-masing API dengan nama prov.json dan postalcode.json. 
+
+Mohon maaf dan mohon dimaklumi apabila terdapat sedikit ketidak sesuaian cara dalam mengerjakan soal, terima kasih. 
+
+<hr>
+
 # Ujian_DilanMilea
 ### **Preview Soal 3 - Ujian Python Data Science Fundamental**
 
